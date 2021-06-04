@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is conflict solver
+=======
+edit by jbxxxx
+>>>>>>> jbx
+solver
