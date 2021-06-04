@@ -1,1 +1,1 @@
-this is edit by master
+this is conflict solver
